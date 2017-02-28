@@ -1,0 +1,22 @@
+## Exécution du programme
+
+javac Main.java && java Main
+
+## Description du programme
+
+View
+- partie graphique du programme
+- met en place le menu, le panel
+- gère les requêtes utilisateur
+
+Listener
+- Réceptionne les requêtes utilisateur
+- informe le controller des changements
+
+Controller
+- valide/invalide les requêtes
+- demande au model d'effectuer les changements
+
+Model
+- effectue les changements
+- informe les observers (views) de ces changements
