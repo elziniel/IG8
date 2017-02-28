@@ -3,6 +3,6 @@
 2e semestre
 
 **Sujet** : Visualisation d’algorithmes sur les graphes  
-**Languages utilisés** : Java
+**Language utilisé** : Java
 
 Projet par groupe de 2
